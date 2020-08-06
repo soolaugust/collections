@@ -5,3 +5,4 @@
   * [https://github.com/ShengLing23/Javacvtest/blob/master/src/main/java/com/ffmpeg/record/RecordTest.java](https://github.com/ShengLing23/Javacvtest/blob/master/src/main/java/com/ffmpeg/record/RecordTest.java)
   * [http://codingxiaxw.cn/2016/12/21/63-javacv-ffmpeg/](http://codingxiaxw.cn/2016/12/21/63-javacv-ffmpeg/)
   * [https://blog.csdn.net/qq1782/article/details/79385116](https://blog.csdn.net/qq1782/article/details/79385116)
+* [Dockerfile -- openjdk11+ffmpeg](https://github.com/lm2343635/openjdk-11-slim-ffmpeg/blob/master/Dockerfile)
