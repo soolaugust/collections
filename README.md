@@ -21,3 +21,7 @@
 * [WebRTC – powerful real-time communication technology for modern web and mobile apps](https://ekobit.com/blog/webrtc-powerful-real-time-communication-technology-for-modern-web-and-mobile-apps/)
 * [WebRTC for the Curious](https://webrtcforthecurious.com/) :thumbsup:
 * [WebRTC 1.0: Real-time Communication Between Browsers](https://w3c.github.io/webrtc-pc/)
+
+# Go
+
+* [Understanding Channels](https://speakerdeck.com/kavya719/understanding-channels)
