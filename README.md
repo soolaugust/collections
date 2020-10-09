@@ -1,5 +1,7 @@
 # 直播相关
 
+* 音视频开发
+  * [即时通讯音视频开发](http://www.52im.net/thread-228-1-1.html)
 * 视频处理
   * [视频转成MP4 / 获取视频时长 -- Java](https://blog.csdn.net/jl19861101/article/details/94555851)
   * [视频高效率截图](https://blog.csdn.net/SUNbrightness/article/details/87258638)
