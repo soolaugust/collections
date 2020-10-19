@@ -30,3 +30,7 @@
 * [Understanding Channels](https://speakerdeck.com/kavya719/understanding-channels)
 * [Go scheduler](https://assets.ctfassets.net/oxjq45e8ilak/48lwQdnyDJr2O64KUsUB5V/5d8343da0119045c4b26eb65a83e786f/100545_516729073_DMITRII_VIUKOV_Go_scheduler_Implementing_language_with_lightweight_concurrency.pdf)
 * [Scheduling In Go](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html)
+
+# 数字孪生
+
+* [Digital Twins: The Ultimate Guide](https://xmpro.com/digital-twins-the-ultimate-guide/)
