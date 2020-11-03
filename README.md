@@ -14,6 +14,7 @@
 # 工具类
 
 * [浏览器兼容情况](https://caniuse.com/)
+* [Linux Packages下载](https://pkgs.org/)
 
 # 代码规范 :computer:
 
