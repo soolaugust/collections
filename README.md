@@ -14,7 +14,10 @@
 # 工具类
 
 * [浏览器兼容情况](https://caniuse.com/)
+
+# Linux
 * [Linux Packages下载](https://pkgs.org/)
+* [「Linux」- 安装 SNMP 服务](https://k4nz.com/05.Computer_Networks/Layer_7_-_Application_Layer/SNMP_-_Simple_Network_Management_Protocol/Install_the_SNMP_daemon.html)
 
 # 代码规范 :computer:
 
