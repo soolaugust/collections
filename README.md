@@ -35,9 +35,14 @@
 * [Go scheduler](https://assets.ctfassets.net/oxjq45e8ilak/48lwQdnyDJr2O64KUsUB5V/5d8343da0119045c4b26eb65a83e786f/100545_516729073_DMITRII_VIUKOV_Go_scheduler_Implementing_language_with_lightweight_concurrency.pdf)
 * [Scheduling In Go](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html)
 
+# Java
+
+* [Uploading and Downloading Files with Spring Boot](https://www.devglan.com/spring-boot/spring-boot-file-upload-download)
+
 # 工业互联网（IIOT）
 
 * [一文解读工业互联网 (转)](https://www.cnblogs.com/IT-Evan/p/12142286.html)
+* [What is a digital twin and why it's important to IoT](https://www.networkworld.com/article/3280225/what-is-digital-twin-technology-and-why-it-matters.html)
 
 ## 数字孪生
 
