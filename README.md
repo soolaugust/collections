@@ -42,6 +42,8 @@
 # Java
 
 * [Uploading and Downloading Files with Spring Boot](https://www.devglan.com/spring-boot/spring-boot-file-upload-download)
+* [java如何设置文件的权限](https://www.cnblogs.com/firstdream/p/7373769.html)
+* [set file permissions to 777(or any other arbitrary permission) while creating a file object in java](https://stackoverflow.com/questions/6233541/java-set-file-permissions-to-777-while-creating-a-file-object?noredirect=1&lq=1)
 
 # 工业互联网（IIOT）
 
